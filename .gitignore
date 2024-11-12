@@ -1,0 +1,7 @@
+# 日志文件不用提交
+logs
+*.log
+# idea
+#.idea
+# 数据库禁止推送
+*.sqlite3
